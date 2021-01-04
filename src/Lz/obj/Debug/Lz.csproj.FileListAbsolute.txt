@@ -1,0 +1,41 @@
+E:\完成\设备模拟器\Lz\bin\Debug\Lz.dll
+E:\完成\设备模拟器\Lz\bin\Debug\Lz.pdb
+E:\完成\设备模拟器\Lz\obj\Debug\ResolveAssemblyReference.cache
+E:\完成\设备模拟器\Lz\obj\Debug\Lz.dll
+E:\完成\设备模拟器\Lz\obj\Debug\Lz.pdb
+E:\完成\串口调试者\Lz\bin\Debug\Lz.dll
+E:\完成\串口调试者\Lz\bin\Debug\Lz.pdb
+E:\完成\串口调试者\Lz\obj\Debug\ResolveAssemblyReference.cache
+E:\完成\串口调试者\Lz\obj\Debug\Lz.dll
+E:\完成\串口调试者\Lz\obj\Debug\Lz.pdb
+E:\开发\串口调试者\Lz\bin\Debug\Lz.dll
+E:\开发\串口调试者\Lz\bin\Debug\Lz.pdb
+E:\开发\串口调试者\Lz\obj\Debug\ResolveAssemblyReference.cache
+E:\开发\串口调试者\Lz\obj\Debug\Lz.dll
+E:\开发\串口调试者\Lz\obj\Debug\Lz.pdb
+D:\Program Files\串口调试者\源代码\Lz\bin\Debug\Lz.dll
+D:\Program Files\串口调试者\源代码\Lz\bin\Debug\Lz.pdb
+D:\Program Files\串口调试者\源代码\Lz\obj\Debug\ResolveAssemblyReference.cache
+D:\Program Files\串口调试者\源代码\Lz\obj\Debug\Lz.dll
+D:\Program Files\串口调试者\源代码\Lz\obj\Debug\Lz.pdb
+C:\Documents and Settings\gx.li\桌面\src\Lz\bin\Debug\Lz.dll
+C:\Documents and Settings\gx.li\桌面\src\Lz\bin\Debug\Lz.pdb
+C:\Documents and Settings\gx.li\桌面\src\Lz\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gx.li\桌面\src\Lz\obj\Debug\Lz.dll
+C:\Documents and Settings\gx.li\桌面\src\Lz\obj\Debug\Lz.pdb
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\Lz\bin\Debug\Lz.dll
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\Lz\bin\Debug\Lz.pdb
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\Lz\obj\Debug\ResolveAssemblyReference.cache
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\Lz\obj\Debug\Lz.dll
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\Lz\obj\Debug\Lz.pdb
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\Lz\bin\Debug\Lz.dll
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\Lz\bin\Debug\Lz.pdb
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\Lz\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\Lz\obj\Debug\Lz.dll
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\Lz\obj\Debug\Lz.pdb
+D:\softinstall\sys&tool\usbto232\串口调试\src\Lz\bin\Debug\Lz.dll
+D:\softinstall\sys&tool\usbto232\串口调试\src\Lz\bin\Debug\Lz.pdb
+D:\softinstall\sys&tool\usbto232\串口调试\src\Lz\obj\Debug\Lz.csproj.CoreCompileInputs.cache
+D:\softinstall\sys&tool\usbto232\串口调试\src\Lz\obj\Debug\Lz.dll
+D:\softinstall\sys&tool\usbto232\串口调试\src\Lz\obj\Debug\Lz.pdb
+D:\softinstall\sys&tool\usbto232\串口调试\src\Lz\obj\Debug\Lz.csprojAssemblyReference.cache

@@ -1,0 +1,106 @@
+E:\完成\设备模拟器\调试者\bin\Debug\调试者.exe
+E:\完成\设备模拟器\调试者\bin\Debug\调试者.pdb
+E:\完成\设备模拟器\调试者\bin\Debug\Lz.dll
+E:\完成\设备模拟器\调试者\bin\Debug\Lz.pdb
+E:\完成\设备模拟器\调试者\obj\Debug\ResolveAssemblyReference.cache
+E:\完成\设备模拟器\调试者\obj\Debug\调试者.Properties.Resources.resources
+E:\完成\设备模拟器\调试者\obj\Debug\调试者.Resource1.resources
+E:\完成\设备模拟器\调试者\obj\Debug\调试者.TS调试者.resources
+E:\完成\设备模拟器\调试者\obj\Debug\调试者.csproj.GenerateResource.Cache
+E:\完成\设备模拟器\调试者\obj\Debug\调试者.exe
+E:\完成\设备模拟器\调试者\obj\Debug\调试者.pdb
+E:\完成\串口调试者\调试者\obj\Debug\调试者.exe
+E:\完成\串口调试者\调试者\obj\Debug\调试者.pdb
+E:\完成\串口调试者\调试者\bin\Debug\调试者.exe.config
+E:\完成\串口调试者\调试者\bin\Debug\调试者.exe
+E:\完成\串口调试者\调试者\bin\Debug\调试者.pdb
+E:\完成\串口调试者\调试者\bin\Debug\Lz.dll
+E:\完成\串口调试者\调试者\bin\Debug\Lz.pdb
+E:\完成\串口调试者\调试者\obj\Debug\ResolveAssemblyReference.cache
+E:\完成\串口调试者\调试者\obj\Debug\调试者.Properties.Resources.resources
+E:\完成\串口调试者\调试者\obj\Debug\调试者.Resource1.resources
+E:\完成\串口调试者\调试者\obj\Debug\调试者.TS调试者.resources
+E:\完成\串口调试者\调试者\obj\Debug\调试者.csproj.GenerateResource.Cache
+E:\开发\串口调试者\调试者\bin\Debug\调试者.exe.config
+E:\开发\串口调试者\调试者\bin\Debug\调试者.exe
+E:\开发\串口调试者\调试者\bin\Debug\调试者.pdb
+E:\开发\串口调试者\调试者\bin\Debug\Lz.dll
+E:\开发\串口调试者\调试者\bin\Debug\Lz.pdb
+E:\开发\串口调试者\调试者\obj\Debug\ResolveAssemblyReference.cache
+E:\开发\串口调试者\调试者\obj\Debug\调试者.Properties.Resources.resources
+E:\开发\串口调试者\调试者\obj\Debug\调试者.Resource1.resources
+E:\开发\串口调试者\调试者\obj\Debug\调试者.TS调试者.resources
+E:\开发\串口调试者\调试者\obj\Debug\调试者.关于.resources
+E:\开发\串口调试者\调试者\obj\Debug\调试者.csproj.GenerateResource.Cache
+E:\开发\串口调试者\调试者\obj\Debug\调试者.exe
+E:\开发\串口调试者\调试者\obj\Debug\调试者.pdb
+D:\Program Files\串口调试者\源代码\调试者\bin\Debug\串口调试者1.0.exe.config
+D:\Program Files\串口调试者\源代码\调试者\bin\Debug\串口调试者1.0.exe
+D:\Program Files\串口调试者\源代码\调试者\bin\Debug\串口调试者1.0.pdb
+D:\Program Files\串口调试者\源代码\调试者\bin\Debug\Lz.dll
+D:\Program Files\串口调试者\源代码\调试者\bin\Debug\Lz.pdb
+D:\Program Files\串口调试者\源代码\调试者\obj\Debug\ResolveAssemblyReference.cache
+D:\Program Files\串口调试者\源代码\调试者\obj\Debug\调试者.Properties.Resources.resources
+D:\Program Files\串口调试者\源代码\调试者\obj\Debug\调试者.Resource1.resources
+D:\Program Files\串口调试者\源代码\调试者\obj\Debug\调试者.TS调试者.resources
+D:\Program Files\串口调试者\源代码\调试者\obj\Debug\调试者.关于.resources
+D:\Program Files\串口调试者\源代码\调试者\obj\Debug\调试者.csproj.GenerateResource.Cache
+D:\Program Files\串口调试者\源代码\调试者\obj\Debug\串口调试者1.0.exe
+D:\Program Files\串口调试者\源代码\调试者\obj\Debug\串口调试者1.0.pdb
+C:\Documents and Settings\gx.li\桌面\src\调试者\bin\Debug\串口调试者1.0.exe.config
+C:\Documents and Settings\gx.li\桌面\src\调试者\obj\Debug\串口调试者1.0.exe
+C:\Documents and Settings\gx.li\桌面\src\调试者\obj\Debug\串口调试者1.0.pdb
+C:\Documents and Settings\gx.li\桌面\src\调试者\bin\Debug\串口调试者1.0.exe
+C:\Documents and Settings\gx.li\桌面\src\调试者\bin\Debug\串口调试者1.0.pdb
+C:\Documents and Settings\gx.li\桌面\src\调试者\bin\Debug\Lz.dll
+C:\Documents and Settings\gx.li\桌面\src\调试者\bin\Debug\Lz.pdb
+C:\Documents and Settings\gx.li\桌面\src\调试者\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gx.li\桌面\src\调试者\obj\Debug\调试者.Properties.Resources.resources
+C:\Documents and Settings\gx.li\桌面\src\调试者\obj\Debug\调试者.Resource1.resources
+C:\Documents and Settings\gx.li\桌面\src\调试者\obj\Debug\调试者.TS调试者.resources
+C:\Documents and Settings\gx.li\桌面\src\调试者\obj\Debug\调试者.关于.resources
+C:\Documents and Settings\gx.li\桌面\src\调试者\obj\Debug\调试者.csproj.GenerateResource.Cache
+C:\Documents and Settings\gx.li\桌面\src\调试者\obj\Debug\调试者.ButtonName.resources
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\调试者\bin\Debug\串口调试者1.0.exe.config
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\调试者\obj\Debug\串口调试者1.0.exe
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\调试者\obj\Debug\串口调试者1.0.pdb
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\调试者\bin\Debug\串口调试者1.0.exe
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\调试者\bin\Debug\串口调试者1.0.pdb
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\调试者\bin\Debug\Lz.dll
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\调试者\bin\Debug\Lz.pdb
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\调试者\obj\Debug\ResolveAssemblyReference.cache
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\调试者\obj\Debug\调试者.ButtonName.resources
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\调试者\obj\Debug\调试者.Properties.Resources.resources
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\调试者\obj\Debug\调试者.Resource1.resources
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\调试者\obj\Debug\调试者.TS调试者.resources
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\调试者\obj\Debug\调试者.关于.resources
+E:\lilgx\软件\编程\C\C++\MFC\project\串口调试器\src\调试者\obj\Debug\调试者.csproj.GenerateResource.Cache
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\调试者\bin\Debug\串口调试者1.0.exe.config
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\调试者\obj\Debug\串口调试者1.0.exe
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\调试者\obj\Debug\串口调试者1.0.pdb
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\调试者\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\调试者\obj\Debug\调试者.ButtonName.resources
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\调试者\obj\Debug\调试者.Properties.Resources.resources
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\调试者\obj\Debug\调试者.Resource1.resources
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\调试者\obj\Debug\调试者.TS调试者.resources
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\调试者\obj\Debug\调试者.关于.resources
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\调试者\obj\Debug\调试者.csproj.GenerateResource.Cache
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\调试者\bin\Debug\串口调试者1.0.exe
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\调试者\bin\Debug\串口调试者1.0.pdb
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\调试者\bin\Debug\Lz.dll
+C:\Documents and Settings\gx.li\桌面\串口调试器\src\调试者\bin\Debug\Lz.pdb
+D:\softinstall\sys&tool\usbto232\串口调试\src\调试者\obj\Debug\调试者.csprojAssemblyReference.cache
+D:\softinstall\sys&tool\usbto232\串口调试\src\调试者\obj\Debug\调试者.ButtonName.resources
+D:\softinstall\sys&tool\usbto232\串口调试\src\调试者\obj\Debug\调试者.Properties.Resources.resources
+D:\softinstall\sys&tool\usbto232\串口调试\src\调试者\obj\Debug\调试者.TS调试者.resources
+D:\softinstall\sys&tool\usbto232\串口调试\src\调试者\obj\Debug\调试者.关于.resources
+D:\softinstall\sys&tool\usbto232\串口调试\src\调试者\obj\Debug\调试者.csproj.GenerateResource.cache
+D:\softinstall\sys&tool\usbto232\串口调试\src\调试者\obj\Debug\调试者.csproj.CoreCompileInputs.cache
+D:\softinstall\sys&tool\usbto232\串口调试\src\调试者\bin\Debug\串口调试者1.0.exe.config
+D:\softinstall\sys&tool\usbto232\串口调试\src\调试者\bin\Debug\串口调试者1.0.exe
+D:\softinstall\sys&tool\usbto232\串口调试\src\调试者\bin\Debug\串口调试者1.0.pdb
+D:\softinstall\sys&tool\usbto232\串口调试\src\调试者\bin\Debug\Lz.dll
+D:\softinstall\sys&tool\usbto232\串口调试\src\调试者\bin\Debug\Lz.pdb
+D:\softinstall\sys&tool\usbto232\串口调试\src\调试者\obj\Debug\调试者.csproj.CopyComplete
+D:\softinstall\sys&tool\usbto232\串口调试\src\调试者\obj\Debug\串口调试者1.0.exe
+D:\softinstall\sys&tool\usbto232\串口调试\src\调试者\obj\Debug\串口调试者1.0.pdb
